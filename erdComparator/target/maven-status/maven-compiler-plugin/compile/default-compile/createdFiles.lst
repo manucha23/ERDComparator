@@ -1,0 +1,12 @@
+com\amdocs\bellca\erdComparator\models\ErdStandardModel.class
+com\amdocs\bellca\erdComparator\services\FindERDInXml.class
+com\amdocs\bellca\erdComparator\services\CreateReport.class
+com\amdocs\bellca\erdComparator\services\ReadXMLFile.class
+com\amdocs\bellca\erdComparator\repository\XmlErdRepository.class
+com\amdocs\bellca\erdComparator\services\XmlHandler.class
+com\amdocs\bellca\erdComparator\models\ErdXmlModel.class
+com\amdocs\bellca\readers\XmlErdReader.class
+com\amdocs\bellca\readers\DocErdReader.class
+com\amdocs\bellca\erdComparator\repository\DocErdRepository.class
+com\amdocs\bellca\erdComparator\App.class
+com\amdocs\bellca\erdComparator\services\ReadDocFile.class
